@@ -1,1 +1,3 @@
-console.log("hello world")
+let helloWorld = "Just kidding, GOODBYE MOON!"
+
+console.log(helloWorld)
